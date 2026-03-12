@@ -16,7 +16,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"client": [
-			"com.example.blockbreakhud.BlockBreakHUDClient"
+			"com.example.BlockBreakHUDClient"
 		]
 	},
 	"mixins": [

@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "BlockBreakHUD",
+	"id": "blockbreakhud",
 	"version": "1.0.0",
 	"name": "Block Break HUD",
 	"description": "Adds a progress bar-like HUD to show how much of a block has been mined",

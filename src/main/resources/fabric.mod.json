@@ -17,9 +17,6 @@
 	"entrypoints": {
 		"client": [
 			"com.example.blockbreakhud.BlockBreakHUDClient"
-		],
-		"client": [
-			"com.example.ExampleModClient"
 		]
 	},
 	"mixins": [

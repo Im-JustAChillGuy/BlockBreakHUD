@@ -2,10 +2,10 @@
 	"schemaVersion": 1,
 	"id": "modid",
 	"version": "${version}",
-	"name": "Example mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Block Break HUD",
+	"description": "Adds a progress bar-like HUD to show how much of a block has been mined",
 	"authors": [
-		"Me!"
+		"JustAChillGuy"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -15,8 +15,8 @@
 	"icon": "assets/modid/icon.png",
 	"environment": "*",
 	"entrypoints": {
-		"main": [
-			"com.example.ExampleMod"
+		"client": [
+			"com.example.blockbreakhud.BlockBreakHUDClient"
 		],
 		"client": [
 			"com.example.ExampleModClient"
